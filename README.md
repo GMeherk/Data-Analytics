@@ -1,0 +1,1 @@
+Analyzing hotel data through data analytics, the dashboard showcases cancellation trends graphically. This encompasses cancellations categorized by guest type, bookings aligned or misaligned with guest preferences, and insights into guest behavior based on arrivals versus cancellations. Additionally, it provides a breakdown of cancellations across different hotels and resorts.
